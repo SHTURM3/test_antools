@@ -10,7 +10,8 @@ HTML, CSS, JS, Swiper.js. Методология БЭМ, благодаря ко
 
 **Ссылка на проект**
 
-* [Ссылка на сайт]()
+* [Ссылка на сайт](https://shturm3.github.io/test_antools/)
+* [Ссылка на макет](https://www.figma.com/file/JHmWIMfLmogpgQXumw7NaF/Antools?node-id=1%3A3&t=bg9JIr4dB8xPvthu-1)
 
 
 
