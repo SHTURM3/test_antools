@@ -1,0 +1,9 @@
+.brands-bg {
+    position: absolute;
+    top: -30%;
+    left: -5%;
+    width: 159px;
+    height: 159px;
+    background: rgba(255, 72, 66, 0.4);
+    filter: blur(50px);
+}

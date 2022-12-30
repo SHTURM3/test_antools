@@ -1,0 +1,10 @@
+.brands__title {
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 0.8);
+    max-width: 367px;
+    margin: 0 auto 55px;
+}

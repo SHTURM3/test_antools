@@ -1,0 +1,12 @@
+.serch__input {
+    font-family: 'Poppins','Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.38);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    width: 185px;
+}

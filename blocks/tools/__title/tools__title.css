@@ -1,0 +1,10 @@
+.tools__title {
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    color: rgba(255, 255, 255, 0.78);
+    max-width: 455px;
+    margin: 0 auto 25px;
+}

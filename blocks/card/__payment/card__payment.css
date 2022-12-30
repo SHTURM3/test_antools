@@ -1,0 +1,9 @@
+.card__payment {
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(255, 165, 55, 0.55);
+    margin: 0;
+}

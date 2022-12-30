@@ -1,0 +1,20 @@
+.tools__btn {
+    display: block;
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FF6E30;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    background-color: transparent;
+    padding: 17px 38px;
+    cursor: pointer;
+    margin: auto;
+}
+
+.tools__btn:hover{
+    background: #FF6E30;
+    color: #fff;
+}

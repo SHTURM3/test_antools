@@ -1,0 +1,13 @@
+.swiper-button-prev {
+    background-image: url('../../images/slider/slider-btn-left.svg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 34px;
+}
+.swiper-button-prev::after {
+    content: '';
+}
+.swiper-button-prev:hover{
+    background-image: url('../../images/slider/slider-btn-active-left.svg');
+}

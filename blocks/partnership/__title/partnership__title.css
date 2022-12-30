@@ -1,0 +1,11 @@
+.partnership__title {
+    max-width: 553px;
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0 auto 25px;
+}

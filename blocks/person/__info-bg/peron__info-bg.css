@@ -1,0 +1,9 @@
+.person__info-bg{
+    width: 23px;
+    height: 23px;
+    background: #007ACC;
+    filter: blur(20px);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

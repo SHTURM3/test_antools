@@ -1,0 +1,10 @@
+.footer__site-desc {
+    max-width: 260px;
+    font-family: 'Poppins', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.55);
+    margin: 0;
+}

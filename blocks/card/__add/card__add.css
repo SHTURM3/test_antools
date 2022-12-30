@@ -1,0 +1,11 @@
+.card__add {
+    background-image: url('../../../images/tools/folder-btn.svg');
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 28px;
+    height: 28px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}

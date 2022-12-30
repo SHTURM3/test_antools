@@ -1,0 +1,4 @@
+.card_active{
+    background: rgba(40, 48, 54, 0.6);
+    border-radius: 15px;    
+}

@@ -1,0 +1,8 @@
+.brands {
+    background: rgba(44, 53, 61, 0.2);
+    border-radius: 25px;
+    position: relative;
+    padding: 55px 80px;
+    margin-bottom: 200px;
+    overflow: hidden;
+}

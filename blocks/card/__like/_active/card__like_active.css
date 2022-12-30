@@ -1,0 +1,6 @@
+.card__like_active{
+    background-image: url('../../../../images/tools/like-active.svg');
+    background-color: #283036;
+    box-shadow: 0px 5px 10px -3px rgb(18 18 18 / 15%);
+    border-radius: 8px;
+}
